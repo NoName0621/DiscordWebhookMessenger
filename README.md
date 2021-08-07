@@ -1,5 +1,7 @@
-Twitter: No name (@606061) <br />
+Twitter: No name (@933884) <br />
 
+## Explanation
+- This tool uses Discord's webhook to send messages to Discord. <br />
 
 ## Introduction
 - This is a tool I made to learn Python.<br/>
