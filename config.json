@@ -1,0 +1,5 @@
+{
+    "webhook":"WEBHOOK_URL",
+    "name":"NAME",
+    "icon":"ICON_URL"
+}
