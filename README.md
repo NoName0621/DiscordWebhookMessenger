@@ -15,5 +15,6 @@ Twitter: No name (@933884) <br />
         or if you fancy to have your dependency installed with root permission<br/>
     `sudo pip install -r requirements.txt`<br/>
 - Rewrite the contents of config.json<br/>
-- python Webhook Messenger.py
+- When executing
+`python Webhook Messenger.py`
 
